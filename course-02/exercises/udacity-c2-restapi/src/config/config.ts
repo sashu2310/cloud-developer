@@ -4,10 +4,10 @@ export const config = {
     "password": "",
     "database": "",
     "host": "",
-    "dialect": "postgres",
-    "aws_region": "us-east-2",
-    "aws_profile": "default",
-    "aws_media_bucket": "udagram-ruttner-dev"
+    "dialect": "",
+    "aws_region": "",
+    "aws_profile": "",
+    "aws_media_bucket": ""
   },
   "prod": {
     "username": "",
